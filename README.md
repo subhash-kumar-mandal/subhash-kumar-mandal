@@ -49,10 +49,10 @@
 ### 📫 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/तुम्हारा-username" target="_blank">
+  <a href="https://www.linkedin.com/in/subhash-mandal-65045232a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Subhash_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:gmdn12405@gmail.com">
+  <a href="mailto:pm817405@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Subhash_Kumar-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
