@@ -6,7 +6,7 @@
 - 💡 I love building simple, clean, and meaningful web projects  
 - 🎯 2025 Goal: Contribute to open-source and build real-world projects  
 - 💬 Ask me about *HTML, CSS, JavaScript (Basics to Advanced)*  
-- 📫 How to reach me: subhash.k.dev@gmail.com (अपना सही email डाल देना)
+- 📫 How to reach me: pm817405@gmail.com 
 
 ---
 
