@@ -28,7 +28,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/subhash-mandal-65045232a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">🌐 LinkedIn</a>  
   <br/>
-  <a href="mailto:subhash.k.dev@gmail.com">📧 Email</a>
+  <a href="pm817405@gmail.com">📧 Email</a>
 </p>
 
 ---
