@@ -29,12 +29,6 @@
 
 ---
 
-/* ### 🧠 My Projects
-
-- 📌 [To-Do List App](#) – A basic React-based to-do list application
-- 📌 [Portfolio Website](#) – Personal portfolio with animations
-
---- */
 
 ### 📊 GitHub Stats
 
