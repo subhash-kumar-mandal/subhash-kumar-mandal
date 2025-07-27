@@ -10,7 +10,7 @@
 - 💡 I love building simple, clean, and user-friendly web apps
 - 🎯 *2025 Goal:* Contribute to Open Source & build real-world projects
 - 💬 Ask me about *HTML, CSS, JavaScript (Basic to Advanced)*
-- 📫 How to reach me: gmdn12405@gmail.com
+- 📫 How to reach me: pm817405@gmail.com
 
 ---
 
