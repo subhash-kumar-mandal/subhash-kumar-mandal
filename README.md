@@ -30,16 +30,6 @@
 ---
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhash-kumar-mandal&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhash-kumar-mandal&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p>
